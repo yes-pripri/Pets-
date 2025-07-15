@@ -76,7 +76,7 @@ import { WhatsappLogoIcon} from '@phosphor-icons/react/dist/ssr'
                    className="flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
                    >
                      <MapPin className="w-5 h-5 text-black" />
-                    Enedereço da loja
+                    Endereço da loja
                    </a>
 
                 </div>

@@ -6,7 +6,7 @@ import Image from 'next/image'
 export function Hero() {
     return(
 
-      <section className="bg-[#E84C3D] text-white relative overflow-hidden">
+      <section className="bg-indigo-900 text-white relative overflow-hidden">
 
         <div>
           <Image
@@ -35,7 +35,7 @@ export function Hero() {
               </p>
     
                 <a href="#"
-                className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center
+                className="bg-green-600 px-5 py-2 rounded-md font-semibold flex items-center
                 justify-center w-fit gap-2"
                 >
                 <WhatsappLogoIcon className="w-5 h-5"/>

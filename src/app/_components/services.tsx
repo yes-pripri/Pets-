@@ -95,7 +95,9 @@ export function Services() {
                           </div>
 
                           <a 
-                          href="#"
+                          target='_blank'
+                          href={`https://wa.me/48991471311?text= Olá, vi o site e gostaria de mais
+                          informações sobre ${item.title}.`}
                           className="flex items-center justify-center gap-2 hover:bg-green-600 
                           px-4 py-1 rounded-md duration-300"
                           >

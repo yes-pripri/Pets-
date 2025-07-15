@@ -72,7 +72,8 @@ import { WhatsappLogoIcon} from '@phosphor-icons/react/dist/ssr'
                    </a>
 
                    <a 
-                   href="#"
+                   target='_blank'
+                   href={`https://wa.me/48991471311?text= Olá, vi o site e gostaria de mais informações.`}
                    className="flex items-center justify-center w-fit gap-2 px-4 py-2 rounded-md"
                    >
                      <MapPin className="w-5 h-5 text-black" />

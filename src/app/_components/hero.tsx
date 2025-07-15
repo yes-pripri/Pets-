@@ -34,7 +34,9 @@ export function Hero() {
                 felicidade do seu amigo de quatro patas.
               </p>
     
-                <a href="#"
+                <a 
+                target='_blank'
+                href={`https://wa.me/48991471311?text= Olá, vi o site e gostaria de mais informações.`}
                 className="bg-green-600 px-5 py-2 rounded-md font-semibold flex items-center
                 justify-center w-fit gap-2"
                 >

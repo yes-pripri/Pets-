@@ -1,4 +1,4 @@
-# 🐾 Pets - Responsive Landing Page
+# 🐾 Pet Shop Dev - Responsive Landing Page
 
 A clean and responsive landing page built with **Next.js**, designed with a focus on performance, accessibility, and a user-friendly layout.
 

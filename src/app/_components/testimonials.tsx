@@ -6,26 +6,27 @@ import { ChevronLeft, ChevronRight, Scissors, Syringe, CarTaxiFront, Hotel, Cloc
 import { WhatsappLogoIcon} from '@phosphor-icons/react'
 import tutor1 from "../../../public/tutor1.png"
 import tutor2 from "../../../public/tutor2.png"
+import tutor3 from "../../../public/tutor3.png"
 import Image from "next/image"
 
 const testimonials = [
   {
     content:
       "Desde que comecei a levar o Stark para banho e tosa aqui, ele nunca esteve tão feliz! O atendimento é impecável, os profissionais são super cuidadosos e sempre deixam meu peludo lindo e cheiroso. Recomendo de olhos fechados!",
-    author: "Priscila Machado",
-    role: "Tutora do Stark (Akita)",
-    image: tutor2,
-  },
-  {
-    content:
-      "O serviço de hotel para pets foi uma experiência incrível! Precisei viajar e fiquei tranquilo sabendo que o Thor estava sendo bem cuidado. Recebi fotos e atualizações diárias, e ele voltou para casa super feliz! Sem dúvida, o melhor petshop da região.",
     author: "Rafael",
-    role: "Tutor do Thor (Bulldog Francês)",
+    role: "Tutor do Stark",
     image: tutor1,
   },
   {
+    content:
+      "O serviço de hotel para pets foi uma experiência incrível! Precisei viajar e fiquei tranquila sabendo que a Juju e Fefe estavam sendo bem cuidadas. Recebi fotos e atualizações diárias, e elas voltaram para casa super felizes! Sem dúvida, o melhor petshop da região.",
+    author: "Gabriela",
+    role: "Tutora da Juju e Fefe",
+    image: tutor3,
+  },
+  {
     content: "Meu gato nunca gostou de sair de casa, mas o atendimento nesse petshop fez toda a diferença. A equipe é muito paciente e cuidadosa, e o serviço de banho especializado para felinos foi maravilhoso! Agora sei onde confiar o cuidado deles.",
-    author: "Priscila Machado",
+    author: "Priscila",
     role: "Tutora do Branquinho",
     image: tutor2,
   },
